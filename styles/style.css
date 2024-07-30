@@ -60,6 +60,14 @@ body {
     display: flex;
     gap: 30px;
     line-height: 29px;
+    flex-grow: 1;
+    flex-basis: 0;
+}
+
+.header__tel{
+    flex-grow: 1;
+    flex-basis: 0;
+    text-align: right;
 }
 
 
